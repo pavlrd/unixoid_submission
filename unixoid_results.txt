@@ -146,7 +146,7 @@ Failures:
             got false
      # ./unixoid_spec.rb:82:in `block (2 levels) in <top (required)>'
 
-Finished in 0.00531 seconds (files took 0.11958 seconds to load)
+Finished in 0.0052 seconds (files took 0.11483 seconds to load)
 17 examples, 17 failures
 
 Failed examples:
