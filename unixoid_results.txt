@@ -18,5 +18,5 @@ Unixoid test
   13b. should have the the first three env vars in my/private/files/first-three-env.txt
   14. should have commands.txt in my/private/files
 
-Finished in 0.00622 seconds (files took 0.11858 seconds to load)
+Finished in 0.00665 seconds (files took 0.11824 seconds to load)
 17 examples, 0 failures
